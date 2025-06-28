@@ -81,7 +81,7 @@ const EmployeeManagement = () => {
             <th>DESIGNATION</th>
             <th>JOINING DATE</th>
             <th>STATUS</th>
-            <th>ACTION</th>
+            <th>ACTIONs</th>
           </tr>
         </thead>
         <tbody>
